@@ -1,5 +1,7 @@
 # SistemaExamenesFrontend
 
+Proyecto de "La tecnologia avanza". Paso a paso de su canal de youtube
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
 
 ## Development server
